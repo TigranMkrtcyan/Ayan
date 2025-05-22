@@ -129,6 +129,12 @@
             "path": "/cover/14.jpg",
             "name": "FAKE Reality | Poster Design",
             "btn": "View Project"
+        },
+        {
+            "id": 15,
+            "path": "/cover/15.jpg",
+            "name": "GS HOTEL Poster | Products Design",
+            "btn":  "View Project"
         }
     ],
     "constacts": [
