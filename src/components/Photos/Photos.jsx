@@ -55,7 +55,7 @@ const Photos = () => {
 
     const goBack = () => navigate(-1)
     const goHomeToPortfolio = () => {
-        navigate("/", { state: { scrollTo: "portfolio" } })
+        navigate("/Ayan", { state: { scrollTo: "portfolio" } })
     }
     return (
         <>

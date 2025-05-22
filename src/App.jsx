@@ -36,10 +36,10 @@ function App() {
           />}
         <ScrollToTop />
         <Routes>
-          <Route path='/' element={<Home about={about} services={services} portfolio={portfolio} contact={contact} />} />
-          <Route path='/photos/:id' element={<Photos />} />
+          <Route path='/Ayan' element={<Home about={about} services={services} portfolio={portfolio} contact={contact} />} />
+          <Route path='/Ayan/photos/:id' element={<Photos />} />
         </Routes>
-        {location.pathname === '/' &&
+        {location.pathname === '/Ayan' &&
           <Footer />
         }
       </ThemeProvider>
